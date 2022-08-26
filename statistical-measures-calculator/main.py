@@ -1,3 +1,5 @@
+import numpy as np
+
 def calculate(arr):
 
   matrix = np.array(test_case).reshape(3, 3)
